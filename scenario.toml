@@ -1,12 +1,12 @@
-name = "Healthcare Triage Benchmark"
-description = "Evaluates agent performance in prioritizing medical patients based on clinical urgency."
-
-[config]
-benchmark = "healthcare_triage"
-
-[evaluator]
-agentbeats_id = "green_dba6f444" 
+[green_agent]
+agentbeats_id = "green_dba6f444" # Replace with your official Green Agent ID if this changes
 env = { }
 
 [[participants]]
 name = "triage_agent"
+agentbeats_id = ""
+env = { }
+
+[config]
+benchmark = "healthcare_triage"
+description = "Clinical triage assessment for patient prioritization."
