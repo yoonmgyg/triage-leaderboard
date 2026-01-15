@@ -8,7 +8,7 @@ on:
 jobs:
   run:
     runs-on: ubuntu-latest
-    if: github.event.repository.fork == true || github.ref != 'refs/heads/main'
+    # Job runs on any push to scenario.toml (baseline or PR)
     permissions:
       contents: write
       packages: read
