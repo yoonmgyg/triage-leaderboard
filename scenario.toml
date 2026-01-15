@@ -3,7 +3,7 @@ agentbeats_id = "019bc308-38aa-7f73-b85c-8a99a7308ee7" # Official Green Agent ID
 env = { }
 
 [[participants]]
-name = "triage_agent"
+name = "agent"
 agentbeats_id = "019bc309-5da3-7213-8f64-8ebce3b912ae"
 env = { }
 # Triggering evaluation: 2026-01-15 (Retry 5 - Public Repo)
