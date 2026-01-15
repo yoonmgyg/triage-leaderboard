@@ -1,9 +1,7 @@
-[
-    {
-        "id": "triage-participant-baseline",
-        "accuracy": 0.70,
-        "score": 70.0,
-        "max_score": 100,
-        "time_used": 0.63
-    }
-]
+{
+    "id": "triage-participant-baseline",
+    "accuracy": 0.70,
+    "score": 70.0,
+    "max_score": 100,
+    "time_used": 0.63
+}
