@@ -11,7 +11,7 @@ env = { }
 name = "agent-v2"
 agentbeats_id = "019bc309-5da3-7213-8f64-8ebce3b912ae"
 env = { }
-# Triggering evaluation: 2026-01-15 (Dual Submission)
+# Triggering evaluation: 2026-01-15 (Complex List Format Restore)
 
 [config]
 benchmark = "healthcare_triage"
