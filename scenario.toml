@@ -1,5 +1,5 @@
 [green_agent]
-agentbeats_id = "green_dba6f444" # Replace with your official Green Agent ID if this changes
+agentbeats_id = "019bc308-38aa-7f73-b85c-8a99a7308ee7" # Official Green Agent ID
 env = { }
 
 [[participants]]
