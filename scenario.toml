@@ -1,0 +1,12 @@
+name = "Healthcare Triage Benchmark"
+description = "Evaluates agent performance in prioritizing medical patients based on clinical urgency."
+
+[config]
+benchmark = "healthcare_triage"
+
+[evaluator]
+agentbeats_id = "green_dba6f444" 
+env = { }
+
+[[participants]]
+name = "triage_agent"
