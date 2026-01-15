@@ -6,7 +6,7 @@ env = { }
 name = "triage_agent"
 agentbeats_id = "019bc309-5da3-7213-8f64-8ebce3b912ae"
 env = { }
-# Triggering evaluation: 2026-01-15 (Retry 4)
+# Triggering evaluation: 2026-01-15 (Retry 5 - Public Repo)
 
 [config]
 benchmark = "healthcare_triage"
