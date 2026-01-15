@@ -1,0 +1,13 @@
+[green_agent]
+agentbeats_id = "019bc308-38aa-7f73-b85c-8a99a7308ee7" # Official Green Agent ID
+env = { }
+
+[[participants]]
+name = "agent"
+agentbeats_id = "019bc309-5da3-7213-8f64-8ebce3b912ae"
+env = { }
+# Triggering evaluation: 2026-01-15 (Final Run - Flat Dict Fix)
+
+[config]
+benchmark = "healthcare_triage"
+description = "Clinical triage assessment for patient prioritization."
